@@ -1,0 +1,8 @@
+{
+    "appenders": {
+        "backend": { "type": "stdout" }
+    },
+    "categories": {
+        "default": { "appenders": ["backend"], "level": "debug" }
+    }
+}
